@@ -1,0 +1,9 @@
+V:\dev\Visual Studio 2019\Repo\BLE\bin\Debug\netcoreapp3.1\BluetoothModule.deps.json
+V:\dev\Visual Studio 2019\Repo\BLE\bin\Debug\netcoreapp3.1\BluetoothModule.dll
+V:\dev\Visual Studio 2019\Repo\BLE\bin\Debug\netcoreapp3.1\BluetoothModule.pdb
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.csproj.AssemblyReference.cache
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.AssemblyInfoInputs.cache
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.AssemblyInfo.cs
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.csproj.CoreCompileInputs.cache
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.dll
+V:\dev\Visual Studio 2019\Repo\BLE\obj\Debug\netcoreapp3.1\BluetoothModule.pdb
